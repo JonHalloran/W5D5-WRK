@@ -1,0 +1,38 @@
+
+
+.profile-picture:hover {
+  cursor: pointer;
+}
+
+.profile-picture img {
+  border: 1px solid black;
+  border-radius: 5px;
+  margin-top: -100px;
+  position: relative;
+  z-index: 1;
+}
+
+h3 {
+  padding: 15px 0px;
+  font-weight: 700;
+  font-size: 24px;
+}
+
+.profile-nav li {
+  font-weight: 700;
+  border-bottom: 1px solid #aaa;
+  padding: 5px 0px;
+}
+
+.profile-nav ul:first-child {
+  border-top: 1px solid #aaa;
+}
+
+.profile-info p {
+  padding-bottom:  20px;
+}
+
+.profile-nav li:hover {
+  background-color: #eee;
+  cursor: pointer;
+}
