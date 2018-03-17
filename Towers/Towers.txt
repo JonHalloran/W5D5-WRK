@@ -1,0 +1,9 @@
+class towers {
+  set up towers
+  until won?
+    ask for input
+    check valid
+    make move
+
+  congrats!!!
+}
